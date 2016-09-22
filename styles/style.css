@@ -1,0 +1,8 @@
+img.resize{
+        width:500px; /* you can use % */
+            height: auto;
+}
+
+img {
+    border: 0px;
+}
